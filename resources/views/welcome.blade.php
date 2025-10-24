@@ -11,6 +11,6 @@
 
     </head>
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
-       <h1>Hello world</h1>
+       <h1>This is the  dev one welcome file</h1>
     </body>
 </html>
